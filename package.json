@@ -2,10 +2,10 @@
   "name": "jpm",
   "version": "11.0.0",
   "description": "WhatsApp Bot 2024",
-  "main": "main.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "author": "jpm",
   "license": "ISC",
